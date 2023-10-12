@@ -71,7 +71,7 @@ div {
 
 div:hover {
     /*borda interna*/
-    border-color: violet;
+    border-color: aqua;
 
     /*sombra*/
     box-shadow: inset 26px 6px 26px 20px rgb(27, 219, 27);
