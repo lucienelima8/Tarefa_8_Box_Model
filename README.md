@@ -9,9 +9,9 @@ Fazer um site que reproduza uma imagem usando as configurações para Box Model.
 Requisitos passados pela professora para dimensão da caixa:
 <br>
  height: 400px; <br>
- width: 400px <br>
+ width: 400px; <br>
 
 
 
-<a href="" target="_blank">Clique aqui</a>
+<!-- <a href="" target="_blank">Clique aqui</a> -->
 
