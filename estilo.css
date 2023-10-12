@@ -1,0 +1,87 @@
+/*Tarefa 8: Box Model*/
+/*Aluna Luciene Lima*/
+
+
+/*Instruções da professora sobre a configuração:
+{
+    width: 400px;
+    height: 400px;
+}
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&display=swap');
+
+body {
+    background-color: rgb(238, 250, 187);
+
+}
+
+/*título*/
+h1 {
+    text-align: center;
+    font-size: 3em;
+    /*color: rgb(30, 62, 170);*/
+    color: rgb(100, 203, 51);
+    font-family: 'PT Sans', sans-serif;
+    /*margin-bottom: 100px;*/
+    margin: 0;
+
+
+}
+
+h1:hover {
+    /*color: rgb(240, 43, 43);*/
+    color: rgb(174, 17, 114);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+/*Foto e parágrafo*/
+div {
+    /*ajustando a foto*/
+    background-image: url(flor3.jpg);
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    /*ajustando a borda da foto*/
+    border-width: 20px;
+    border-style: dotted; /*borda pontilhada*/
+    border-color: rgb(100, 203, 51);
+    border-radius: 50%;
+    box-shadow: inset 26px 6px 23px 33px red;
+    background-size: cover; /*adapta a imagem dentro da div*/
+    padding: 10px;
+    outline-width: 56px; /*largura contorno por fora*/
+    outline-style: double; /*tipo de contorno: duplo*/
+    outline-color: rgb(174, 17, 114);
+    /*margem*/
+    margin: auto; /*pra deixar o elemento no meio do site*/
+    margin-top: 100px; /*pro elemento não grudar em cima*/
+      
+
+}
+
+p {
+    color: yellow;
+    padding-top: 100px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+
+/*rodapé*/
+footer {
+    color: black;
+    font-size: 1em;
+    padding-top: 8em;
+    font-weight: bold;
+    text-align: center;
+
+
+
+}
+
+
+/* Esse trabalho foi feito por Luciene Lima */
