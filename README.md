@@ -16,5 +16,6 @@ Requisitos passados pela professora para dimensão da caixa:
 
 
 Autora: Luciene Lima
-<a href="https://github.com/lucienelima8" target="_blank">Meu Github</a>
+<a href="https://github.com/lucienelima8" target="_blank">
+<br>Meu Github</a>
 
