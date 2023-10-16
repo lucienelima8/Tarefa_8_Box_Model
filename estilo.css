@@ -82,7 +82,8 @@ div:hover {
 
 }
 
-p {
+/*descodificadas*/
+div p {
     color: yellow;
     padding-top: 100px;
     font-style: italic;
@@ -100,9 +101,20 @@ footer {
     font-weight: bold;
     text-align: center;
 
-
-
 }
+
+/*pegar só o 1º p do footer*/
+footer p:nth-of-type(1) {
+    opacity: .6;
+    font-size: .8em;
+}
+
+
+
+
+
+
+
 
 
 /* Esse trabalho foi feito por Luciene Lima */
