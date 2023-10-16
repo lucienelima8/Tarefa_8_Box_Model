@@ -12,6 +12,9 @@ Requisitos passados pela professora para dimensão da caixa:
  width: 400px; <br>
 
 
+<a href="https://lucienelima8.github.io/Tarefa_8_Box_Model/" target="_blank">Clique aqui</a>
 
-<!-- <a href="" target="_blank">Clique aqui</a> -->
+
+Autora: Luciene Lima
+<a href="https://github.com/lucienelima8" target="_blank"></a>
 
